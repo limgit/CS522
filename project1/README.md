@@ -1,9 +1,9 @@
-Tested Environment
+## Tested Environment
   - Ubuntu 16.04.2 LTS
   - flex 2.6.0
   - g++ 5.4.0
   
-Files
+## Files
   - compile.sh: `$ sh compile.sh` applies flex on korean_automata.l and compiles with korean_chars.cpp to make simple_text_editor.
   - korean_automata.l: Lex file that contains korean automata and main function.
   - korean_chars.cpp: Contains arrays of korean characters.
@@ -11,7 +11,7 @@ Files
   - lex.yy.cc: Result c++ file of `$ flex++ korean_automata.l`.
   - simple_text_editor: Executable file.
   
-Description
+## Description
   - To compile program: `$ sh compile.sh` (It may take some time. Please wait.).
   - To run program: `$ ./simple_text_editor`.
   - Available keys: 
