@@ -23,5 +23,5 @@ Description
     - Running this program clears the console screen.
     - Backspace key deletes only one vowel or one consonant at a time. Which means 고기 becomes 고ㄱ, 고, ㄱ, and then empty string for each hit of backspace key.
     - To exit program, hit Ctrl+C.
-    - Keys that korean characters are not assigned are treated as itself. For example, a key is assigned to ㅁ so it is treated as ㅁ, but A key is not assigned to any korean character, so A is treated as A.
+    - Keys that korean characters are not assigned are treated as itself. For example, 'a' key is assigned to ㅁ so it is treated as ㅁ, but 'A' key is not assigned to any korean character, so 'A' is treated as A.
     
