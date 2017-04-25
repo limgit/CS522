@@ -12,6 +12,7 @@ Files
   - simple_text_editor: Executable file.
   
 Description
+  - To compile program: `$ sh compile.sh` (It may take some time. Please wait.).
   - To run program: `$ ./simple_text_editor`.
   - Available keys: 
     - [ASCII Code](http://www.asciitable.com/) 0x20 to 0x7F and newline character (pressing enter).
